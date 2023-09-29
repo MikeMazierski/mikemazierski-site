@@ -225,9 +225,9 @@ header .logo {
 }
 @media screen and (min-width: 575px) {
   #hero .bg-star {
-    top: 225px;
-    left: 255px;
-    max-width: 55px;
+    top: 0;
+    left: 0;
+    max-width: 100%;
     z-index:0;
   }
 }
